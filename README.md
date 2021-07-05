@@ -16,7 +16,7 @@ To run application itself, run:
 php artisan serve
 ```
 
-Authors:
+## Authors:
 - [Rafał Krawętek](https://github.com/rafalkrawetek)
 - [Mikołaj Gawroński](https://github.com/mikolajgawronski)
 - [Patryk Zym](https://github.com/rewe999)
